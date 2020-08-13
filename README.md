@@ -3,11 +3,11 @@ a simple web application for make very easy manage group recite of Quran
 
 ## ***Contents***
 
-1.[Introduction](.#introduction)
+1.[Introduction](#introduction)
 
-2.[How to run](.#How-to-run)
-  - [if you want to run with own Computer(on localhost)](.#How-to-run#if-you-want-to-run-with-own-Computer(on-localhost))
-  - [if you want to run to your host (or server)](.#How-to-run#if-you-want-to-run-to-your-host-(or-server))
+2.[How to run](#How-to-run)
+  - [if you want to run with own Computer(on localhost)](#How-to-run#if-you-want-to-run-with-own-Computer(on-localhost))
+  - [if you want to run to your host (or server)](#How-to-run#if-you-want-to-run-to-your-host-(or-server))
 
 ## How to run
 
