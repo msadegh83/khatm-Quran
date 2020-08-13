@@ -20,7 +20,8 @@
 ## روش اجرای برنامه
 
 > ### 1) در صورت اجرا در کامپیوتر شخصی (روی هاست محلی)
-
+1. یک شبیه ساز وب سرور (مانند `LAMP` در لینوکس ، `XAMPP` و `WAMP` در ویندوز و `MAMP` در مک) در کامپیوترتان نصب کنید
+2. پوشه `www` یا `htdocs` وابسته با شبیه ساز وب سرورتان) را در ترمینال باز کنید)
 
 </div>
 
@@ -44,7 +45,7 @@ and **`javaScript`**.
 > ### 1) if you want to run with own Computer(on localhost)
 
 1. install a Webserver simulator (like `LAMP` on linux ,`XAMPP` & `WAMP` on windows and `MAMP` on Mac os)
-2. open www or htdocs (depends on your Webserver simulator) folder (on terminal)
+2. open `www` or `htdocs` (depends on your Webserver simulator) folder (on terminal)
 3. clone this project with following codes (if you don't have `git` on your computer , install it):
   ```
   #git global setup
