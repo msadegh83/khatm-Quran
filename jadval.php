@@ -62,7 +62,7 @@ and open the template in the editor.
           $i++;
           endforeach;?>
         </table>
-        <a href="/KhatmQuran"><button type="button" class="btn btn-warning">بازگشت به صفحه اصلی</button></a>
+        <a href="/khatm-Quran"><button type="button" class="btn btn-warning">بازگشت به صفحه اصلی</button></a>
         <button type="button" onClick="window.print()" class="btn btn-warning">چاپ صفحه</button>
     </body>
 </html>
