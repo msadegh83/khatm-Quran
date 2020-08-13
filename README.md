@@ -23,6 +23,7 @@
 1. یک شبیه ساز وب سرور (مانند `LAMP` در لینوکس ، `XAMPP` و `WAMP` در ویندوز و `MAMP` در مک) در کامپیوترتان نصب کنید
 2. پوشه `www` یا `htdocs` (وابسته به شبیه ساز وب سرور) که در محل نصب نرم افزار وب سرورتان است را با ترمینال باز کنید
 3. این پروژه را با کد های زیر کلون کنید (اگر بر روی کامپیوترتان `git` را نصب نکرده اید ، آن را نصب کنید)
+</div>
 ```
   #تنظیمات کلی git
   git config --global user.name "{your-github-username}"
@@ -32,9 +33,12 @@
   git clone https://github.com/msadegh83/khatm-Quran.git
   
   ```
+<div dir="rtl">
+  
 4. کنترل پنل نرم افزار وب سرور را باز کرده و `Apache` و `MySQL` را استارت کنید
 5. وارد `phpmyadmin` شوید و فایل `khatm.sql` را import کنید
 6. یک user جدید ایجاد کنید و username و password آن را در فایل `config.php` {که کلون کرده اید} تغییر دهید:
+</div>
 ```php
 <?php
 
@@ -44,6 +48,8 @@ define("password", "password");
 define("DBName", "khatm");
 
 ```
+<div dir="rtl">
+  
 **\*usename و password کاربر ایجاد شده را در قسمتی که مقادیر `"username"` و `"password"` قرار دارد جایگزین کنید**
 7. آدرس `localhost\khatm-Quran` را در مرورگر خود وارد کنید
 8.**تبریک می گوییم! شما موفق به اجرای برنامه شدید**
