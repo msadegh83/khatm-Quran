@@ -6,6 +6,22 @@
 # ختم قرآن
 یک وب اپلیکشن برای مدیریت بسیار ساده ختم های گروهی قرآن کریم
 
+## **فهرست**
+
+1)[مقدمه](#مقدمه)
+
+2)[روش اجرای برنامه](#روش-اجرای-برنامه)
+  - [در صورت اجرا در کامپیوتر شخصی (روی هاست محلی)](#1-در-صورت-اجرا-در-کامپیوتر-شخصی-روی-هاست-محلی)
+  - [در صورت اجرا روی هاست (یا سرور)](#2-در-صورت-اجرا-روی-هاست-یا-سرور)
+
+## مقدمه
+پروژه **ختم قرآن** (هنوز بدون نام مجزا) یک وب اپلیکیشن برای مدیریت بسیار ساده ختم های گروهی قرآن کریم است. این اپلیکیشن با **`php`** ، **`MySQL`** و **`javaScript`** برنامه نویسی و تولید شده است.
+
+## روش اجرای برنامه
+
+> ### 1) در صورت اجرا در کامپیوتر شخصی (روی هاست محلی)
+
+
 </div>
 
 # khatm-Quran
@@ -13,9 +29,9 @@ a simple web application for make very easy manage group recite of Quran
 
 ## ***Contents***
 
-1.[Introduction](#Introduction)
+1)[Introduction](#Introduction)
 
-2.[How to run](#How-to-run)
+2)[How to run](#How-to-run)
   - [if you want to run with own Computer(on localhost)](#1-if-you-want-to-run-with-own-computeron-localhost)
   - [if you want to run to your host (or server)](#2-if-you-want-to-run-to-your-host-or-server)
 
