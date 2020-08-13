@@ -1,13 +1,26 @@
+- :iran: [فارسی](#ختم-قرآن)
+- :us: [English](#khatm-Quran)
+
+<div dir="rtl">
+# ختم قرآن
+یک وب اپلیکشن برای مدیریت بسیار ساده ختم های گروهی قرآن کریم
+
+</div>
+
 # khatm-Quran
 a simple web application for make very easy manage group recite of Quran
 
 ## ***Contents***
 
-1.[Introduction](#introduction)
+1.[Introduction](#Introduction)
 
 2.[How to run](#How-to-run)
   - [if you want to run with own Computer(on localhost)](#1-if-you-want-to-run-with-own-computeron-localhost)
   - [if you want to run to your host (or server)](#2-if-you-want-to-run-to-your-host-or-server)
+
+## Introduction
+**Khatm Quran** project (until doesn't have a unique name) is a web application for make very easy management group recite of Quran. this app made with **`php`** , **`MySQL`**
+and **`javaScript`**.
 
 ## How to run
 
