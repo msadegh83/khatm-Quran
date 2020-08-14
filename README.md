@@ -62,7 +62,47 @@ define("DBName", "khatm");
 8. **تبریک می گوییم! شما موفق به اجرای برنامه شدید**
 
 > ### 2) در صورت اجرا روی هاست (یا سرور)
+1. (در سرور) با دستورات زیر پروژه را کلون کنید یا (در هاست) پروژه را روی کامپیوتر خود {با دستورات زیر} کلون کرده و سپس به پوشه `public_html` منتقل کنید:
 
+</div>
+
+
+```
+  #تنظیمات کلی git
+  git config --global user.name "{your-github-username}"
+  git config --global user.email "{your-github-email}"
+  
+  #برای کلون کردن پروژه در محل
+  git clone https://github.com/msadegh83/khatm-Quran.git
+  
+  ```
+  
+ <div dir="rtl" align="right">
+
+ 2. وارد `phpmyadmin` شوید و فایل `khatm.sql` را import کنید
+ 3. یک user جدید ایجاد کنید و username و password آن را در فایل `config.php` {که کلون کرده اید} تغییر دهید:
+
+ </div>
+
+```php
+<?php
+
+define("ServerName","localhost");
+define("Username", "username");
+define("password", "password");
+define("DBName", "khatm");
+
+```
+
+
+<div dir="rtl" align="right">
+  
+**\*username و password کاربر ایجاد شده را در قسمتی که مقادیر `"username"` و `"password"` قرار دارد جایگزین کنید**
+
+4. آدرس `www.yourdomain.com/khatm-Quran` ( `www.yourdomain.com` را با دامنه خود جایگزین کنید) را در مرورگر خود وارد کنید
+
+5. **تبریک می گوییم! شما موفق به اجرای برنامه شدید** 
+  
 </div>
 
 # khatm-Quran
